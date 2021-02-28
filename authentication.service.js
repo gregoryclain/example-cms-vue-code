@@ -1,3 +1,6 @@
+//...
+// Pour des raisons de confidentialités, seul une partie du code est visible
+
 /* eslint-disable handle-callback-err */
 /* eslint-disable no-unused-vars */
 /* eslint-disable quotes */
